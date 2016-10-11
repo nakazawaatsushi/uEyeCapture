@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "uEyeCaptureSingle", "uEyeCaptureSingle.exe", "{5C4D7123-0E1B-4D1B-9793-8FA75E04B0F1}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\admin\Desktop\TestCapture\uEyeCapture\uEyeCaptureMulti\Release\uEyeCaptureSingle.exe
+		RemoteMachine = DESKTOP-0J267KR
+		StartingDirectory = C:\Users\admin\Desktop\TestCapture\uEyeCapture\uEyeCaptureMulti\Release
+		Environment = 既定
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4D7123-0E1B-4D1B-9793-8FA75E04B0F1}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

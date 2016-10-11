@@ -1,0 +1,13 @@
+﻿2016/05/11 20:20:03 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\admin\Desktop\TestCapture\uEyeCapture\uEyeCaptureMulti\uEyeCaptureSingle\uEyeCaptureSingle.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files\IDS\uEye\Develop\include" /IC:\OpenCV2.2\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt uEyeCaptureSingle.cpp
+         uEyeCaptureSingle.cpp
+     1>c:\opencv2.2\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 'fopen' の宣言を確認してください。
+     1>c:\users\admin\desktop\testcapture\ueyecapture\ueyecapturemulti\ueyecapturesingle\ueyecapturesingle.cpp(21): fatal error C1083: include ファイルを開けません。'boost/thread.hpp': No such file or directory
+     1>プロジェクト "C:\Users\admin\Desktop\TestCapture\uEyeCapture\uEyeCaptureMulti\uEyeCaptureSingle\uEyeCaptureSingle.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:01.56
