@@ -25,7 +25,12 @@ end
 %% difference between the first and second frames
 Id = rgb2gray(I{2}) - rgb2gray(I{1});
 
-imshow(Id*1000);
+figure, imshow(Id*10000);
+
+%%
+Id = rgb2gray(I{3}) - rgb2gray(I{2});
+
+imshow(Id*10000);
 
 % show normal images
 %imshow(I{1}*16)
